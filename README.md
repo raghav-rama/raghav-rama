@@ -2,7 +2,10 @@
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning Java
 
-https://github-readme-stats.vercel.app/api?username=raghav-rama
+<a href="https://github.com/raghav-rama">
+    <img src="https://github-readme-stats.vercel.app/api?username=raghav-rama" alt="Github Stats">
+</a>
+
 <!--- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
