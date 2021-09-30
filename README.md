@@ -1,7 +1,7 @@
 # About Me
 ***
 - 👋 Hi, I’m @raghav-rama
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Android Development
 
 <a href="https://github.com/raghav-rama">
