@@ -8,7 +8,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=raghav-rama" alt="Github Stats">
 </a>
 
-
 - 📫 How to reach me @hackerboy:matrix.org
 - Peace 🙏️
 
