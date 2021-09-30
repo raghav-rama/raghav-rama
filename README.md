@@ -7,7 +7,7 @@
 ## Stats:
 
 <a href="https://github.com/raghav-rama">
-    <img src="https://readme-stats-raghav-rama.vercel.app/api?username=raghav-rama&show_icons=true&theme=outrun&bg_color=69,677df5,F56778&border_radius=20&title_color=ffffff&text_color=ffffff&icon_color=dce2ff" alt="Github Stats">
+    <img src="https://readme-stats-raghav-rama.vercel.app/api?username=raghav-rama&show_icons=true&theme=outrun&bg_color=69,677df5,F56778&border_radius=25&title_color=ffdddd&text_color=e8e6ff&icon_color=ffffff" alt="Github Stats">
 </a>
 
 ---
