@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Java
 
 <a href="https://github.com/raghav-rama">
-    <img src="https://github-readme-stats.vercel.app/api?username=raghav-rama" alt="Github Stats">
+    <img src="https://readme-stats-cxfqvcw2r-raghav-rama.vercel.app/api?username=raghav-rama&show_icons=true&theme=outrun&bg_color=69,677df5,F56778&border_radius=20&title_color=ffffff&text_color=ffffff&icon_color=dce2ff" alt="Github Stats">
 </a>
 
 - 📫 How to reach me @hackerboy:matrix.org
