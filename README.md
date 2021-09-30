@@ -9,7 +9,7 @@
 </a>
 
 - 📫 How to reach me @hackerboy:matrix.org
-- Peace 🙏️
+- 🙏️ Peace
 
 # End
 ***
