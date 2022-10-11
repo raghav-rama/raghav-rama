@@ -59,7 +59,7 @@
 
 # :man_technologist:About Me
 
-- 👋 Hi, I’m @raghav-rama
+- 👋 Yo, I’m @raghav-rama
 - 👀 I’m interested in Blockchain <a href="#"><img src="https://cultofthepartyparrot.com/parrots/ethparrot.gif" width="40px"/></a>
 - 🌱 I’m currently learning everything ig <a href="#"><img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/partyparrot.gif" width="30px"/></a>
 ---
