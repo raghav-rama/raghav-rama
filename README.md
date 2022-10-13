@@ -85,11 +85,11 @@
     <tr border="0px">
     <td>
       <a href="https://github.com/raghav-rama">
-        <img src="https://readme-stats-raghav-rama.vercel.app/api?username=raghav-rama&theme=github_dark&show_icons=true&border_radius=25&bg_color=0,000000,002832" alt="Github Stats">
+        <img src="https://readme-stats-raghav-rama.vercel.app/api?username=raghav-rama&theme=github_dark&show_icons=true&border_radius=25&bg_color=0,161b22,0d1117" alt="Github Stats">
       </a></td>
     <td>
       <a href="https://github.com/raghav-rama">
-        <img src="https://readme-stats-raghav-rama.vercel.app/api/top-langs/?username=raghav-rama&layout=compact&theme=github_dark&border_radius=25&bg_color=0,000000,002832" alt="Github Top Lang Stats">
+        <img src="https://readme-stats-raghav-rama.vercel.app/api/top-langs/?username=raghav-rama&layout=compact&theme=github_dark&border_radius=25&bg_color=0,161b22,0d1117" alt="Github Top Lang Stats">
       </a></td>
     </tr>
     </table>
