@@ -28,23 +28,12 @@
   </a>
 </div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
+
+  <img alt="header" src="https://media.giphy.com/media/26xBwdNu2t2asNaww/giphy.gif" width="320px" height="250px"/>
+  <img alt="header" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250px"/>
+  <img alt="header" src="https://media.giphy.com/media/26xBwdNu2t2asNaww/giphy.gif" width="320px" height="250px"/>
 </div>
-<div id="badges" align="center">
-  <h3>Socials</h3>
-  <a href="#"><img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/reverseportalorangeparrot.gif" width="30px"/></a>
-    <a href="https://www.linkedin.com/in/ritviksingh258/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <!--<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>-->
-    <a href="https://twitter.com/Raghav__Rama/" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  <a href="#"><img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/reverseportalblueparrot.gif" width="30px"/></a></br>
-  <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=raghav-rama&style=flat-square&color=blue" alt="profile-count"/>
-  </a>
-</div>
+
 <div id="greet" align="center">
   <h1>
       <a href="#">
@@ -58,21 +47,54 @@
 </div>
 
 # :man_technologist:About Me
+<img align="right" src="https://user-images.githubusercontent.com/91389059/195725622-98f47da8-c666-4072-8aaa-dca8e3b112ac.png" alt="young-coder" width="480px"/>
 
-- 👋 Yo, I’m @raghav-rama
-- 👀 I’m interested in Blockchain <a href="#"><img src="https://cultofthepartyparrot.com/parrots/ethparrot.gif" width="40px"/></a>
-- 🌱 I’m currently learning everything ig <a href="#"><img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/partyparrot.gif" width="30px"/></a>
+<ul>
+<h3><li>👋 Yo, I’m @raghav-rama</li></h3>
+<h3><li>👀 I’m interested in Blockchain <a href="#"><img src="https://cultofthepartyparrot.com/parrots/ethparrot.gif" width="40px"/></a></li></h3>
+<h3><li>🌱 I’m currently learning everything ig <a href="#"><img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/partyparrot.gif" width="30px"/></a></li></h3>
+<h3><li>📫 How to reach me @hackerboy:matrix.org</li></h3>
+<table>
+  <tr>
+    <th colspan="2">Socials</th>
+  </tr>
+    <tr>
+      <td><a href="#"><img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/reverseportalorangeparrot.gif" width="30px"/></a>
+        <a href="https://www.linkedin.com/in/ritviksingh258/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a></td>
+      <td><a href="https://twitter.com/Raghav__Rama/" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+        </a>
+        <a href="#"><img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/reverseportalblueparrot.gif" width="30px"/></a></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><a href="#">
+        <img src="https://komarev.com/ghpvc/?username=raghav-rama&style=flat-square&color=blue" alt="profile-count"/>
+      </a></td>
+    </tr>
+</table>
+<h3><li>🙏 Peace</li></h3>
+</ul>
+
 ---
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Github Stats:
+
 <div id="github-stats" align="center">
-    <a href="https://github.com/raghav-rama">
-        <img src="https://readme-stats-raghav-rama.vercel.app/api?username=raghav-rama&theme=github_dark&show_icons=true&border_radius=25" alt="Github Stats">
-    </a>
+    <table>
+    <tr border="0px">
+    <td>
+      <a href="https://github.com/raghav-rama">
+        <img src="https://readme-stats-raghav-rama.vercel.app/api?username=raghav-rama&theme=github_dark&show_icons=true&border_radius=25&bg_color=0,000000,002832" alt="Github Stats">
+      </a></td>
+    <td>
+      <a href="https://github.com/raghav-rama">
+        <img src="https://readme-stats-raghav-rama.vercel.app/api/top-langs/?username=raghav-rama&layout=compact&theme=github_dark&border_radius=25&bg_color=0,000000,002832" alt="Github Top Lang Stats">
+      </a></td>
+    </tr>
+    </table>
     <a href="https://github.com/raghav-rama">
         <img src="https://github-readme-streak-stats.herokuapp.com?user=raghav-rama&theme=github-dark-blue&border_radius=25&date_format=j%20M%5B%20Y%5D" alt="Github Streak Stats">
-    </a>
-    <a href="https://github.com/raghav-rama">
-        <img src="https://readme-stats-raghav-rama.vercel.app/api/top-langs/?username=raghav-rama&layout=compact&theme=github_dark&border_radius=25&card_width=450" alt="Github Top Lang Stats">
     </a>
 </div>
 
@@ -151,8 +173,6 @@
 </div>
 
 ---
-- 📫 How to reach me @hackerboy:matrix.org or Twitter
-- 🙏 Peace 
 
-# End <a href="#"><img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/reverseparrot.gif" width="50px"/></a>
+# <div align="center">End <a href="#"><img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/reverseparrot.gif" width="50px"/></a></div>
 ***
