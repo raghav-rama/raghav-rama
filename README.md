@@ -29,9 +29,9 @@
 </div>
 <div id="header" align="center">
 
-  <img alt="header" src="https://media.giphy.com/media/26xBwdNu2t2asNaww/giphy.gif" width="320px" height="250px"/>
+  <img alt="header" src="https://media.giphy.com/media/26xBwdNu2t2asNaww/giphy.gif" width="280px" height="250px"/>
   <img alt="header" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250px"/>
-  <img alt="header" src="https://media.giphy.com/media/26xBwdNu2t2asNaww/giphy.gif" width="320px" height="250px"/>
+  <img alt="header" src="https://media.giphy.com/media/26xBwdNu2t2asNaww/giphy.gif" width="280px" height="250px"/>
 </div>
 
 <div id="greet" align="center">
@@ -47,7 +47,7 @@
 </div>
 
 # :man_technologist:About Me
-<img align="right" src="https://user-images.githubusercontent.com/91389059/195725622-98f47da8-c666-4072-8aaa-dca8e3b112ac.png" alt="young-coder" width="480px"/>
+<img align="right" src="https://user-images.githubusercontent.com/91389059/195725622-98f47da8-c666-4072-8aaa-dca8e3b112ac.png" alt="young-coder" width="380px"/>
 
 <ul>
 <h3><li>👋 Yo, I’m @raghav-rama</li></h3>
