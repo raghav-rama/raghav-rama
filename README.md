@@ -27,12 +27,14 @@
     <img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/wave9parrot.gif" width="40px"/>
   </a>
 </div>
-<div id="header" align="center">
+<!-- <div id="header" align="center">
 
-  <img alt="header" src="https://media.giphy.com/media/26xBwdNu2t2asNaww/giphy.gif" width="280px" height="250px"/>
-  <img alt="header" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250px"/>
-  <img alt="header" src="https://media.giphy.com/media/26xBwdNu2t2asNaww/giphy.gif" width="280px" height="250px"/>
-</div>
+    <img alt="header" src="https://media.giphy.com/media/26xBwdNu2t2asNaww/giphy.gif" width="280px" height="250px"/>
+    <img alt="header" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250px"/>
+    <img alt="header" src="https://media.giphy.com/media/26xBwdNu2t2asNaww/giphy.gif" width="280px" height="250px"/>
+  </div> -->
+  
+[![@hackerboy's Holopin board](https://holopin.me/hackerboy)](https://holopin.io/@hackerboy)
 
 <div id="greet" align="center">
   <h1>
