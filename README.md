@@ -32,6 +32,7 @@
     <img alt="header" src="https://media.giphy.com/media/26xBwdNu2t2asNaww/giphy.gif" width="280px" height="250px"/>
     <img alt="header" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="250px"/>
     <img alt="header" src="https://media.giphy.com/media/26xBwdNu2t2asNaww/giphy.gif" width="280px" height="250px"/>
+
   </div> -->
   
 [![@hackerboy's Holopin board](https://holopin.me/hackerboy)](https://holopin.io/@hackerboy)
@@ -49,6 +50,7 @@
 </div>
 
 # :man_technologist:About Me
+
 <img align="right" src="https://user-images.githubusercontent.com/91389059/195725622-98f47da8-c666-4072-8aaa-dca8e3b112ac.png" alt="young-coder" width="380px"/>
 
 <ul>
@@ -72,6 +74,11 @@
     </tr>
     <tr>
       <td colspan="2" align="center"><a href="#">
+        <img src="https://img.shields.io/badge/Discord-hackerboy%238921-5865F2?style=flat-square&logo=discord" alt="Discord Username"/>
+      </a></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><a href="#">
         <img src="https://komarev.com/ghpvc/?username=raghav-rama&style=flat-square&color=blue" alt="profile-count"/>
       </a></td>
     </tr>
@@ -80,6 +87,7 @@
 </ul>
 
 ---
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Github Stats:
 
 <div id="github-stats" align="center">
@@ -101,7 +109,9 @@
 </div>
 
 ---
+
 ### :hammer_and_wrench:Language and Tools
+
 <div id="technologies" align="center">
     <a href="https://www.java.com" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" height=40px width=40px/>
@@ -172,9 +182,13 @@
     <a href="https://www.blender.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="blender" height=40px width=40px/>
     </a>
+    <a href="https://www.solana.com/" target="_blank">
+        <img src="https://www.solana.com/favicon.ico" alt="solana" height=35px width=35px/>
+    </a>
 </div>
 
 ---
 
 # <div align="center">End <a href="#"><img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/reverseparrot.gif" width="50px"/></a></div>
-***
+
+---
