@@ -74,7 +74,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center"><a href="#">
-        <img src="https://img.shields.io/badge/Discord-hackerboy%238921-5865F2?style=flat-square&logo=discord" alt="Discord Username"/>
+        <img src="https://img.shields.io/badge/Discord-hacker.boy-5865F2?style=flat-plastic&logo=discord" alt="Discord Username"/>
       </a></td>
     </tr>
     <tr>
