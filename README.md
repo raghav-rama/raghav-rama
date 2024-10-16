@@ -54,9 +54,9 @@
 <img align="right" src="https://user-images.githubusercontent.com/91389059/195725622-98f47da8-c666-4072-8aaa-dca8e3b112ac.png" alt="young-coder" width="380px"/>
 
 <ul>
-<h3><li>👋 Yo, I’m @raghav-rama</li></h3>
-<h3><li>👀 I’m interested in Blockchain <a href="#"><img src="https://cultofthepartyparrot.com/parrots/ethparrot.gif" width="40px"/></a></li></h3>
-<h3><li>🌱 I’m currently learning everything ig <a href="#"><img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/partyparrot.gif" width="30px"/></a></li></h3>
+<h3><li>👋 Yo, I’m Ritvik</li></h3>
+<h3><li>👀 I’m interested in DeFi <a href="#"><img src="https://cultofthepartyparrot.com/parrots/ethparrot.gif" width="40px"/></a></li></h3>
+<h3><li>🌱 I’m currently learning Systems Engineering <a href="#"><img src="https://github.com/jmhobbs/cultofthepartyparrot.com/blob/main/parrots/hd/partyparrot.gif" width="30px"/></a></li></h3>
 <h3><li>📫 How to reach me @hackerboy:matrix.org</li></h3>
 <table>
   <tr>
